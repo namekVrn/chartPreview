@@ -100,7 +100,7 @@ console.log(labels.temp)
           labels: labels.data,
           
           datasets: [{
-              label: '— Temperature, C°'+"             ",
+              label: '— Temperature, C°'+"               ",
               data: labels.temp,
               tension: 0.2,
               fill: false,
